@@ -1,0 +1,25 @@
+C:\Users\Gabriel.ribeiro\Desktop\PATHFINDER\PathFinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Gabriel.ribeiro\Desktop\PATHFINDER\PathFinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Gabriel.ribeiro\Desktop\PATHFINDER\PathFinder\PathFinder\obj\x86\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Gabriel.ribeiro\Desktop\PATHFINDER\PathFinder\PathFinder\obj\x86\Debug\PathFinder.csproj.GenerateResource.Cache
+C:\Users\Gabriel.ribeiro\Desktop\PATHFINDER\PathFinder\PathFinder\obj\x86\Debug\PathFinder.exe
+C:\Users\Gabriel.ribeiro\Desktop\PATHFINDER\PathFinder\PathFinder\obj\x86\Debug\PathFinder.pdb
+C:\Users\Israel\Desktop\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.exe
+C:\Users\Israel\Desktop\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.pdb
+C:\Users\Israel\Desktop\Pathfinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Israel\Desktop\Pathfinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Israel\Desktop\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Israel\Desktop\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.csproj.GenerateResource.Cache
+C:\Users\Gabriel.ribeiro\Downloads\Pathfinder-2015-06-03\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.exe
+C:\Users\Gabriel.ribeiro\Downloads\Pathfinder-2015-06-03\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.pdb
+C:\Users\Gabriel.ribeiro\Downloads\Pathfinder-2015-06-03\Pathfinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Gabriel.ribeiro\Downloads\Pathfinder-2015-06-03\Pathfinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Gabriel.ribeiro\Downloads\Pathfinder-2015-06-03\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Gabriel.ribeiro\Downloads\Pathfinder-2015-06-03\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.csproj.GenerateResource.Cache
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.exe
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.pdb
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\bin\Debug\PathFinder.exe
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\bin\Debug\PathFinder.pdb
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.Properties.Resources.resources
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.csproj.GenerateResource.Cache
+C:\Users\Israel\Desktop\Pathfinder\NOVO PATH FINDER 29\Pathfinder\PathFinder\obj\x86\Debug\PathFinder.csprojResolveAssemblyReference.cache
